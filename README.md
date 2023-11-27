@@ -34,9 +34,13 @@ Instalar dependecias: npm install
 ## Dependencias
 
 -Axios: para solicitudes HTTP desde Node.js a la API
+
 -Dotenv: carga de variables de entorno desde archivos .env
+
 -Express: simplifica el desarrollo de aplicaciones web al facilitar la gestión de servidores, rutas  y middleware.
+
 -Body-parser: middleware de Express para analizar información en las solicitudes HTTP.
+
 -Inquirer: para menú interactivo en la consola. 
 
 
