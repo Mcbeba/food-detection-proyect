@@ -70,7 +70,4 @@ server.listen(port, () => {
   console.log(`Server listening on port: https://localhost:${port}`);
 });
 
-// server.on("close", () => {
-//   saveDB(arrayDeAlimentosDetectados)
-//   console.log("fin")
-// })
+
