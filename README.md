@@ -12,7 +12,7 @@ Instalar dependecias: npm install
 
 ## Uso
 
-1. Visite la web para obtener su apiKey "https://api-ninjas.com/"  
+1. Visite la web para obtener su apiKey "https://api-ninjas.com/"  y guarde dentro de un archivo .env (ejemplo: API_KEY='o6K+FFScyig1dMR7zmJPGw==HB66Fvv1HiCfpzn6').
 
 2. Ejecute la aplicación desde la terminal con el comando "npm start menu.js" y elija una opción usando las flechas del teclado.
 
