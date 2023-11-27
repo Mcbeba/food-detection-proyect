@@ -55,7 +55,7 @@ async function requestNutrition(query) {
     if (response.status === 200) {
       console.log("NUTRITION RESPONSE", response.data);
       arrayDeAlimentosDetectados.push(JSON.stringify(response.data))
-      console.log('Array:' + arrayDeAlimentosDetectados)
+      //console.log('Array:' + arrayDeAlimentosDetectados)
       saveDB(arrayDeAlimentosDetectados)
     } else {
       console.error('Request error:', response.status);
