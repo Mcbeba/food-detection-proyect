@@ -1,5 +1,7 @@
 <h1 align="center"> Food Detection Proyect </h1>
 
+Proyecto final del módulo "Core Node" del curso "Albañiles Digitales", impartido por el profesor Ing. Jessie Buckland. 
+
 # Food Detection Proyect 
 Esta aplicación implementa el reconcimiento de alimentos a través de la cámara web y proporciona la información nutricional del alimento mediante la API: Nutrition API. Utiliza el modelo Object Detection COCO-SSD de TensorFlow.js, capaz de identificar objetos definidos en COCO dataset. Este modelo es capaz de detectar 80 clases de objetos de los cuales 10 son alimentos. Para este proyecto se ha configurado para que detecte los alimentos con un nivel de confianza del 90%. Los alimentos reconocidos actualmente por el modelo son: Manzana, plátano, naranja, zanahoria, brócoli, pastel, donut, pizza, hotdog y sandwich.
 
@@ -43,4 +45,8 @@ Instalar dependecias: npm install
 
 -Inquirer: para menú interactivo en la consola. 
 
+
+## Agradecimientos
+
+Agradezco al profesor Ing. Jessie Buckland por su gran apoyo y tutoría durante este proyecto. 
 
